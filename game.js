@@ -44,7 +44,7 @@ fetch(url)
 
 // CONSTANTS
 const CORRECT_BONUS = 10;
-const MAX_QUESTIONS = 2;
+const MAX_QUESTIONS = 10;
 
 startGame = () => {
   questionCounter = 0;
